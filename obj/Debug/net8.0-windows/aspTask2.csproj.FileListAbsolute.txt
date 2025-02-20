@@ -1,0 +1,16 @@
+C:\Users\stian\OneDrive\Skrivebord\ASP\aspTask2\aspTask2\bin\Debug\net8.0-windows\aspTask2.exe
+C:\Users\stian\OneDrive\Skrivebord\ASP\aspTask2\aspTask2\bin\Debug\net8.0-windows\aspTask2.deps.json
+C:\Users\stian\OneDrive\Skrivebord\ASP\aspTask2\aspTask2\bin\Debug\net8.0-windows\aspTask2.runtimeconfig.json
+C:\Users\stian\OneDrive\Skrivebord\ASP\aspTask2\aspTask2\bin\Debug\net8.0-windows\aspTask2.dll
+C:\Users\stian\OneDrive\Skrivebord\ASP\aspTask2\aspTask2\bin\Debug\net8.0-windows\aspTask2.pdb
+C:\Users\stian\OneDrive\Skrivebord\ASP\aspTask2\aspTask2\obj\Debug\net8.0-windows\aspTask2.Form1.resources
+C:\Users\stian\OneDrive\Skrivebord\ASP\aspTask2\aspTask2\obj\Debug\net8.0-windows\aspTask2.csproj.GenerateResource.cache
+C:\Users\stian\OneDrive\Skrivebord\ASP\aspTask2\aspTask2\obj\Debug\net8.0-windows\aspTask2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stian\OneDrive\Skrivebord\ASP\aspTask2\aspTask2\obj\Debug\net8.0-windows\aspTask2.AssemblyInfoInputs.cache
+C:\Users\stian\OneDrive\Skrivebord\ASP\aspTask2\aspTask2\obj\Debug\net8.0-windows\aspTask2.AssemblyInfo.cs
+C:\Users\stian\OneDrive\Skrivebord\ASP\aspTask2\aspTask2\obj\Debug\net8.0-windows\aspTask2.csproj.CoreCompileInputs.cache
+C:\Users\stian\OneDrive\Skrivebord\ASP\aspTask2\aspTask2\obj\Debug\net8.0-windows\aspTask2.dll
+C:\Users\stian\OneDrive\Skrivebord\ASP\aspTask2\aspTask2\obj\Debug\net8.0-windows\refint\aspTask2.dll
+C:\Users\stian\OneDrive\Skrivebord\ASP\aspTask2\aspTask2\obj\Debug\net8.0-windows\aspTask2.pdb
+C:\Users\stian\OneDrive\Skrivebord\ASP\aspTask2\aspTask2\obj\Debug\net8.0-windows\aspTask2.genruntimeconfig.cache
+C:\Users\stian\OneDrive\Skrivebord\ASP\aspTask2\aspTask2\obj\Debug\net8.0-windows\ref\aspTask2.dll
